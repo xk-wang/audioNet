@@ -1,0 +1,5 @@
+nn.sigmoid and add onset-aware branch
+
+现在这个模型只能只添加onset分支
+
+# these parameters will be get after getting the data num
